@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on Computer Science projects
 - 📫 How to reach me Email
-- 😄 Pronouns: Take a guess
 - ⚡ Fun fact: I like camping
 
 <!---
